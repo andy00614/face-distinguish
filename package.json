@@ -1,0 +1,24 @@
+{
+  "name": "Face-Recognition-JavaScript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "face-api.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WebDevSimplified/Face-Recognition-JavaScript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WebDevSimplified/Face-Recognition-JavaScript/issues"
+  },
+  "homepage": "https://github.com/WebDevSimplified/Face-Recognition-JavaScript#readme",
+  "dependencies": {
+    "koa": "^2.13.0",
+    "koa-static": "^5.0.0"
+  }
+}
